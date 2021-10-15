@@ -1,0 +1,34 @@
+_repo: Marty-the-Martian_66389
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Marmor, Arnold
+    birthdate: 1927
+    deathdate: 1978
+    gutenberg_agent_id: '34572'
+    url: http://www.gutenberg.org/2009/agents/34572
+description: ''
+gutenberg_issued: '2021-09-27'
+identifiers:
+  gutenberg: '66389'
+language: en
+pgterms:marc905: 20210307040159marmor
+pgterms:marc906: '1954'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: United States :Greenleaf Publishing Company,1954.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Martians -- Fiction'
+- !lcsh 'Short stories'
+- !lcsh 'Space flight to Mars -- Fiction'
+- !lcsh 'Circus -- Fiction'
+- !lcsh 'Human-alien encounters -- Fiction'
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+- GITenberg
+title: Marty the Martian
+url: http://www.gutenberg.org/ebooks/66389
